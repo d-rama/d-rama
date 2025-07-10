@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Dennis Rama
+## Hi there 👋, I'm Dennis Kinyanjui
 
 ⚡ Fun fact: I love building automated things from scratch!
 
